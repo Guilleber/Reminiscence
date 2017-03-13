@@ -35,7 +35,7 @@ public class PlayerScript : MonoBehaviour {
     {
         if(firstTeddy)
         {
-            if(!displayingtext)
+            if (!displayingtext)
                 WarningText.text = "Press Up!";
             if (Input.GetButtonDown("Vertical"))
             {
