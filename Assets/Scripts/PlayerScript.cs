@@ -79,11 +79,16 @@ public class PlayerScript : MonoBehaviour {
             if (Input.GetButtonDown("Jump"))
             {
                 m_RB.AddForce(new Vector2(0, jump_speed));
-
+                m_Anim.SetBool("mJump", true);
+ 
             }
-
+            else
+            {
+                m_Anim.SetBool("mJump", false);
+            }
         }
         m_Anim.SetBool("OnGround", m_Grounded > 0);
+        print(m_Grounded);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

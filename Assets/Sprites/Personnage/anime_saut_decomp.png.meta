@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: a08f404f0bf722d4aa75f739a8624740
+timeCreated: 1489495257
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: anime_saut_decomp_0
+    21300002: anime_saut_decomp_1
+    21300004: anime_saut_decomp_2
+    21300006: anime_saut_decomp_3
+    21300008: anime_saut_decomp_4
+    21300010: anime_saut_decomp_5
+    21300012: anime_saut_decomp_6
+    21300014: anime_saut_decomp_7
+    21300016: anime_saut_decomp_8
+    21300018: anime_saut_decomp_9
+    21300020: anime_saut_decomp_10
+    21300022: anime_saut_decomp_11
+    21300024: anime_saut_decomp_12
+    21300026: anime_saut_decomp_13
+    21300028: anime_saut_decomp_14
+    21300030: anime_saut_decomp_15
+    21300032: anime_saut_decomp_16
+    21300034: anime_saut_decomp_17
+    21300036: anime_saut_decomp_18
+    21300038: anime_saut_decomp_19
+    21300040: anime_saut_decomp_20
+    21300042: anime_saut_decomp_21
+    21300044: anime_saut_decomp_22
+    21300046: anime_saut_decomp_23
+    21300048: anime_saut_decomp_24
+    21300050: anime_saut_decomp_25
+    21300052: anime_saut_decomp_26
+    21300054: anime_saut_decomp_27
+    21300056: anime_saut_decomp_28
+    21300058: anime_saut_decomp_29
+    21300060: anime_saut_decomp_30
+    21300062: anime_saut_decomp_31
+    21300064: anime_saut_decomp_32
+    21300066: anime_saut_decomp_33
+    21300068: anime_saut_decomp_34
+    21300070: anime_saut_decomp_35
+    21300072: anime_saut_decomp_36
+    21300074: anime_saut_decomp_37
+    21300076: anime_saut_decomp_38
+    21300078: anime_saut_decomp_39
+    21300080: anime_saut_decomp_40
+    21300082: anime_saut_decomp_41
+    21300084: anime_saut_decomp_42
+    21300086: anime_saut_decomp_43
+    21300088: anime_saut_decomp_44
+    21300090: anime_saut_decomp_45
+    21300092: anime_saut_decomp_46
+    21300094: anime_saut_decomp_47
+    21300096: anime_saut_decomp_48
+    21300098: anime_saut_decomp_49
+    21300100: anime_saut_decomp_50
+    21300102: anime_saut_decomp_51
+    21300104: anime_saut_decomp_52
+    21300106: anime_saut_decomp_53
+    21300108: anime_saut_decomp_54
+    21300110: anime_saut_decomp_55
+    21300112: anime_saut_decomp_56
+    21300114: anime_saut_decomp_57
+    21300116: anime_saut_decomp_58
+    21300118: anime_saut_decomp_59
+    21300120: anime_saut_decomp_60
+    21300122: anime_saut_decomp_61
+    21300124: anime_saut_decomp_62
+    21300126: anime_saut_decomp_63
+    21300128: anime_saut_decomp_64
+    21300130: anime_saut_decomp_65
+    21300132: anime_saut_decomp_66
+    21300134: anime_saut_decomp_67
+    21300136: anime_saut_decomp_68
+    21300138: anime_saut_decomp_69
+    21300140: anime_saut_decomp_70
+    21300142: anime_saut_decomp_71
+    21300144: anime_saut_decomp_72
+    21300146: anime_saut_decomp_73
+    21300148: anime_saut_decomp_74
+    21300150: anime_saut_decomp_75
+    21300152: anime_saut_decomp_76
+    21300154: anime_saut_decomp_77
+    21300156: anime_saut_decomp_78
+    21300158: anime_saut_decomp_79
+    21300160: anime_saut_decomp_80
+    21300162: anime_saut_decomp_81
+    21300164: anime_saut_decomp_82
+    21300166: anime_saut_decomp_83
+    21300168: anime_saut_decomp_84
+    21300170: anime_saut_decomp_85
+    21300172: anime_saut_decomp_86
+    21300174: anime_saut_decomp_87
+    21300176: anime_saut_decomp_88
+    21300178: anime_saut_decomp_89
+    21300180: anime_saut_decomp_90
+    21300182: anime_saut_decomp_91
+    21300184: anime_saut_decomp_92
+    21300186: anime_saut_decomp_93
+    21300188: anime_saut_decomp_94
+    21300190: anime_saut_decomp_95
+    21300192: anime_saut_decomp_96
+    21300194: anime_saut_decomp_97
+    21300196: anime_saut_decomp_98
+    21300198: anime_saut_decomp_99
+    21300200: anime_saut_decomp_100
+    21300202: anime_saut_decomp_101
+    21300204: anime_saut_decomp_102
+    21300206: anime_saut_decomp_103
+    21300208: anime_saut_decomp_104
+    21300210: anime_saut_decomp_105
+    21300212: anime_saut_decomp_106
+    21300214: anime_saut_decomp_107
+    21300216: anime_saut_decomp_108
+    21300218: anime_saut_decomp_109
+    21300220: anime_saut_decomp_110
+    21300222: anime_saut_decomp_111
+    21300224: anime_saut_decomp_112
+    21300226: anime_saut_decomp_113
+    21300228: anime_saut_decomp_114
+    21300230: anime_saut_decomp_115
+    21300232: anime_saut_decomp_116
+    21300234: anime_saut_decomp_117
+    21300236: anime_saut_decomp_118
+    21300238: anime_saut_decomp_119
+    21300240: anime_saut_decomp_120
+    21300242: anime_saut_decomp_121
+    21300244: anime_saut_decomp_122
+    21300246: anime_saut_decomp_123
+    21300248: anime_saut_decomp_124
+    21300250: anime_saut_decomp_125
+    21300252: anime_saut_decomp_126
+    21300254: anime_saut_decomp_127
+    21300256: anime_saut_decomp_128
+    21300258: anime_saut_decomp_129
+    21300260: anime_saut_decomp_130
+    21300262: anime_saut_decomp_131
+    21300264: anime_saut_decomp_132
+    21300266: anime_saut_decomp_133
+    21300268: anime_saut_decomp_134
+    21300270: anime_saut_decomp_135
+    21300272: anime_saut_decomp_136
+    21300274: anime_saut_decomp_137
+    21300276: anime_saut_decomp_138
+    21300278: anime_saut_decomp_139
+    21300280: anime_saut_decomp_140
+    21300282: anime_saut_decomp_141
+    21300284: anime_saut_decomp_142
+    21300286: anime_saut_decomp_143
+    21300288: anime_saut_decomp_144
+    21300290: anime_saut_decomp_145
+    21300292: anime_saut_decomp_146
+    21300294: anime_saut_decomp_147
+    21300296: anime_saut_decomp_148
+    21300298: anime_saut_decomp_149
+    21300300: anime_saut_decomp_150
+    21300302: anime_saut_decomp_151
+    21300304: anime_saut_decomp_152
+    21300306: anime_saut_decomp_153
+    21300308: anime_saut_decomp_154
+    21300310: anime_saut_decomp_155
+    21300312: anime_saut_decomp_156
+    21300314: anime_saut_decomp_157
+    21300316: anime_saut_decomp_158
+    21300318: anime_saut_decomp_159
+    21300320: anime_saut_decomp_160
+    21300322: anime_saut_decomp_161
+    21300324: anime_saut_decomp_162
+    21300326: anime_saut_decomp_163
+    21300328: anime_saut_decomp_164
+    21300330: anime_saut_decomp_165
+    21300332: anime_saut_decomp_166
+    21300334: anime_saut_decomp_167
+    21300336: anime_saut_decomp_168
+    21300338: anime_saut_decomp_169
+    21300340: anime_saut_decomp_170
+    21300342: anime_saut_decomp_171
+    21300344: anime_saut_decomp_172
+    21300346: anime_saut_decomp_173
+    21300348: anime_saut_decomp_174
+    21300350: anime_saut_decomp_175
+    21300352: anime_saut_decomp_176
+    21300354: anime_saut_decomp_177
+    21300356: anime_saut_decomp_178
+    21300358: anime_saut_decomp_179
+    21300360: anime_saut_decomp_180
+    21300362: anime_saut_decomp_181
+    21300364: anime_saut_decomp_182
+    21300366: anime_saut_decomp_183
+    21300368: anime_saut_decomp_184
+    21300370: anime_saut_decomp_185
+    21300372: anime_saut_decomp_186
+    21300374: anime_saut_decomp_187
+    21300376: anime_saut_decomp_188
+    21300378: anime_saut_decomp_189
+    21300380: anime_saut_decomp_190
+    21300382: anime_saut_decomp_191
+    21300384: anime_saut_decomp_192
+    21300386: anime_saut_decomp_193
+    21300388: anime_saut_decomp_194
+    21300390: anime_saut_decomp_195
+    21300392: anime_saut_decomp_196
+    21300394: anime_saut_decomp_197
+    21300396: anime_saut_decomp_198
+    21300398: anime_saut_decomp_199
+    21300400: anime_saut_decomp_200
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 45
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anime_saut_decomp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_3
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_4
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_5
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_6
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_7
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_8
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_9
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_10
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_11
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_12
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_13
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_14
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_15
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_16
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_17
+      rect:
+        serializedVersion: 2
+        x: 4012
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_18
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_19
+      rect:
+        serializedVersion: 2
+        x: 4484
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_20
+      rect:
+        serializedVersion: 2
+        x: 4720
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_21
+      rect:
+        serializedVersion: 2
+        x: 4956
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_22
+      rect:
+        serializedVersion: 2
+        x: 5192
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: anime_saut_decomp_23
+      rect:
+        serializedVersion: 2
+        x: 5428
+        y: 0
+        width: 236.20833
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
