@@ -35,7 +35,7 @@ public class PlayerScript : MonoBehaviour {
     {
         if(firstTeddy)
         {
-            if (!displayingtext)
+            if(!displayingtext)
                 WarningText.text = "Press Up!";
             if (Input.GetButtonDown("Vertical"))
             {
@@ -78,17 +78,14 @@ public class PlayerScript : MonoBehaviour {
             Debug.DrawRay(m_RB.position, new Vector3(0, -10, 0), Color.blue, 1);
             if (Input.GetButtonDown("Jump"))
             {
+                m_Anim.SetBool("Jump", true);
+                wait(3);
+                m_Anim.SetBool("Jump", false);
                 m_RB.AddForce(new Vector2(0, jump_speed));
-                m_Anim.SetBool("mJump", true);
- 
             }
-            else
-            {
-                m_Anim.SetBool("mJump", false);
-            }
+
         }
         m_Anim.SetBool("OnGround", m_Grounded > 0);
-        print(m_Grounded);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -159,5 +156,9 @@ public class PlayerScript : MonoBehaviour {
             TeddyText.text = "";
         }
         displayingtext = false;
+    }
+    IEnumerator wait(float delay)
+    {
+        yield return new WaitForSeconds(delay);
     }
 }
