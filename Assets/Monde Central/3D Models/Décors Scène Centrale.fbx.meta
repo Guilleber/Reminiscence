@@ -1,0 +1,2364 @@
+fileFormatVersion: 2
+guid: dc87cad98166a8245bd9e6572f0a38da
+timeCreated: 1490304461
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Boolean
+    100002: Camera
+    100004: Circle.000
+    100006: Circle.001
+    100008: Circle.002
+    100010: Circle.003
+    100012: Circle.004
+    100014: Circle.005
+    100016: Circle.006
+    100018: Circle.007
+    100020: Circle.008
+    100022: Circle.009
+    100024: Cube
+    100026: Cube.001
+    100028: Cube.002
+    100030: Cube.003
+    100032: Cylinder
+    100034: //RootNode
+    100036: Empty
+    100038: Ground
+    100040: Point
+    100042: Walls
+    400000: Boolean
+    400002: Camera
+    400004: Circle.000
+    400006: Circle.001
+    400008: Circle.002
+    400010: Circle.003
+    400012: Circle.004
+    400014: Circle.005
+    400016: Circle.006
+    400018: Circle.007
+    400020: Circle.008
+    400022: Circle.009
+    400024: Cube
+    400026: Cube.001
+    400028: Cube.002
+    400030: Cube.003
+    400032: Cylinder
+    400034: //RootNode
+    400036: Empty
+    400038: Ground
+    400040: Point
+    400042: Walls
+    2300000: Boolean
+    2300002: Circle.000
+    2300004: Circle.001
+    2300006: Circle.002
+    2300008: Circle.003
+    2300010: Circle.004
+    2300012: Circle.005
+    2300014: Circle.006
+    2300016: Circle.007
+    2300018: Circle.008
+    2300020: Circle.009
+    2300022: Cube
+    2300024: Cube.001
+    2300026: Cube.002
+    2300028: Cube.003
+    2300030: Cylinder
+    2300032: Ground
+    2300034: Walls
+    3300000: Boolean
+    3300002: Circle.000
+    3300004: Circle.001
+    3300006: Circle.002
+    3300008: Circle.003
+    3300010: Circle.004
+    3300012: Circle.005
+    3300014: Circle.006
+    3300016: Circle.007
+    3300018: Circle.008
+    3300020: Circle.009
+    3300022: Cube
+    3300024: Cube.001
+    3300026: Cube.002
+    3300028: Cube.003
+    3300030: Cylinder
+    3300032: Ground
+    3300034: Walls
+    4300000: Cylinder
+    4300002: Circle.009
+    4300004: Circle.008
+    4300006: Circle.006
+    4300008: Circle.005
+    4300010: Circle.004
+    4300012: Circle.003
+    4300014: Circle.002
+    4300016: Circle.001
+    4300018: Circle.000
+    4300020: Circle.007
+    4300022: Boolean
+    4300024: Cube.003
+    4300026: Cube.002
+    4300028: Cube.001
+    4300030: Cube
+    4300032: Walls
+    4300034: Ground
+    7400000: Circle.009|Lustre
+    7400002: Circle.009|Lustre.001
+    7400004: Circle.009|Lustre.002
+    7400006: Circle.008|Lustre
+    7400008: Circle.008|Lustre.001
+    7400010: Circle.008|Lustre.002
+    7400012: Circle.006|Lustre
+    7400014: Circle.006|Lustre.001
+    7400016: Circle.006|Lustre.002
+    7400018: Circle.005|Lustre
+    7400020: Circle.005|Lustre.001
+    7400022: Circle.005|Lustre.002
+    7400024: Circle.004|Lustre
+    7400026: Circle.004|Lustre.001
+    7400028: Circle.004|Lustre.002
+    7400030: Circle.003|Lustre
+    7400032: Circle.003|Lustre.001
+    7400034: Circle.003|Lustre.002
+    7400036: Circle.002|Lustre
+    7400038: Circle.002|Lustre.001
+    7400040: Circle.002|Lustre.002
+    7400042: Circle.001|Lustre
+    7400044: Circle.001|Lustre.001
+    7400046: Circle.001|Lustre.002
+    7400048: Circle.000|Lustre
+    7400050: Circle.000|Lustre.001
+    7400052: Circle.000|Lustre.002
+    7400054: Circle.007|Lustre
+    7400056: Circle.007|Lustre.001
+    7400058: Circle.007|Lustre.002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Circle.009|Lustre
+      takeName: Circle.009|Lustre
+      firstFrame: 0
+      lastFrame: 449
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.009|Lustre.001
+      takeName: Circle.009|Lustre.001
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.009|Lustre.002
+      takeName: Circle.009|Lustre.002
+      firstFrame: 0
+      lastFrame: 349
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.008|Lustre
+      takeName: Circle.008|Lustre
+      firstFrame: 0
+      lastFrame: 449
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.008|Lustre.001
+      takeName: Circle.008|Lustre.001
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.008|Lustre.002
+      takeName: Circle.008|Lustre.002
+      firstFrame: 0
+      lastFrame: 349
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.006|Lustre
+      takeName: Circle.006|Lustre
+      firstFrame: 0
+      lastFrame: 449
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.006|Lustre.001
+      takeName: Circle.006|Lustre.001
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.006|Lustre.002
+      takeName: Circle.006|Lustre.002
+      firstFrame: 0
+      lastFrame: 349
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.005|Lustre
+      takeName: Circle.005|Lustre
+      firstFrame: 0
+      lastFrame: 449
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.005|Lustre.001
+      takeName: Circle.005|Lustre.001
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.005|Lustre.002
+      takeName: Circle.005|Lustre.002
+      firstFrame: 0
+      lastFrame: 349
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.004|Lustre
+      takeName: Circle.004|Lustre
+      firstFrame: 0
+      lastFrame: 449
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.004|Lustre.001
+      takeName: Circle.004|Lustre.001
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.004|Lustre.002
+      takeName: Circle.004|Lustre.002
+      firstFrame: 0
+      lastFrame: 349
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.003|Lustre
+      takeName: Circle.003|Lustre
+      firstFrame: 0
+      lastFrame: 449
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.003|Lustre.001
+      takeName: Circle.003|Lustre.001
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.003|Lustre.002
+      takeName: Circle.003|Lustre.002
+      firstFrame: 0
+      lastFrame: 349
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.002|Lustre
+      takeName: Circle.002|Lustre
+      firstFrame: 0
+      lastFrame: 449
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.002|Lustre.001
+      takeName: Circle.002|Lustre.001
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.002|Lustre.002
+      takeName: Circle.002|Lustre.002
+      firstFrame: 0
+      lastFrame: 349
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.001|Lustre
+      takeName: Circle.001|Lustre
+      firstFrame: 0
+      lastFrame: 449
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.001|Lustre.001
+      takeName: Circle.001|Lustre.001
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.001|Lustre.002
+      takeName: Circle.001|Lustre.002
+      firstFrame: 0
+      lastFrame: 349
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.000|Lustre
+      takeName: Circle.000|Lustre
+      firstFrame: 0
+      lastFrame: 449
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.000|Lustre.001
+      takeName: Circle.000|Lustre.001
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.000|Lustre.002
+      takeName: Circle.000|Lustre.002
+      firstFrame: 0
+      lastFrame: 349
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.007|Lustre
+      takeName: Circle.007|Lustre
+      firstFrame: 0
+      lastFrame: 449
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.007|Lustre.001
+      takeName: Circle.007|Lustre.001
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Circle.007|Lustre.002
+      takeName: Circle.007|Lustre.002
+      firstFrame: 0
+      lastFrame: 349
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boolean
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.003
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Circle.000
+        weight: 1
+      - path: Empty/Circle.001
+        weight: 1
+      - path: Empty/Circle.002
+        weight: 1
+      - path: Empty/Circle.003
+        weight: 1
+      - path: Empty/Circle.004
+        weight: 1
+      - path: Empty/Circle.005
+        weight: 1
+      - path: Empty/Circle.006
+        weight: 1
+      - path: Empty/Circle.007
+        weight: 1
+      - path: Empty/Circle.008
+        weight: 1
+      - path: Empty/Circle.009
+        weight: 1
+      - path: Ground
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Walls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
